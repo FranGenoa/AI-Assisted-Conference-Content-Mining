@@ -2,4 +2,4 @@
 
 📝 Read the full article at the following: [here](https://medium.com/@francescogiorgio.fava/ai-assisted-conference-content-mining-dac088725665)
 
-🧠 Explore the code behind the workflow [here](code/)
+🧠 Explore the code behind the workflow: [here](code/)
